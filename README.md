@@ -1,8 +1,9 @@
 # MIST4610GroupProject1
 
  
-Team name and members:
-Include information about the name of the team, the names of all team members as well as links to their corresponding GitHub repos that have the project on them.
+# Team Name: Group 7
+
+# Team Members:
 <br> 
 Giovanna Palma - @giovannapalma
 <br> 
