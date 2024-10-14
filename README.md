@@ -74,7 +74,8 @@ Query 1 allows managers to track what menu items are the most popular and see wh
 <br>
 
 
-2. Query 2 retrieves the employees who have processed more than 3 orders. It then organizes the number of orders each employee has processed in descending order. 
+2. Query 2 retrieves the employees who have processed more than 3 orders. It then organizes the number of orders each employee has processed in descending order.
+3. 
  ![image](https://github.com/user-attachments/assets/709c0a88-b525-49b8-a53e-e6abed58d014)
 
 Query 2 allows managers to see employee performance on handling orders. This is important for understanding employee efficiency, time management, and overall employee performance. Managers can use this information for future schedules in order to optimize employee productivity and work distribution. This information can also help with goal and target setting for employees to motivate them. 
