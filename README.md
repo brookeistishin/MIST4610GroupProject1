@@ -66,7 +66,8 @@ Menu items represent the products sold by the coffee shops, such as different ty
 
 
 
-1. Query 1 finds the most frequently ordered menu items by counting the occurrences of each menu item in the ‘OrderItem’ table. The results are also ordered by the number of occurrences of each menu item in descending order. 
+1. Query 1 finds the most frequently ordered menu items by counting the occurrences of each menu item in the ‘OrderItem’ table. The results are also ordered by the number of occurrences of each menu item in descending order.
+   
  ![image](https://github.com/user-attachments/assets/e9f278f9-7fee-4470-93f0-8ef773893902)
 
 Query 1 allows managers to track what menu items are the most popular and see which ones are not selling well.  This is important for optimizing inventory levels to make sure the right amount of items are stocked. It can also help management make important decisions when designing or updating the menu to ensure customer satisfaction and further sales. Additionally, it will help management focus marketing and promotion efforts on popular items. Listing the results in descending order helps with efficiency when retrieving information about which menu items to promote and stock the most of.    
