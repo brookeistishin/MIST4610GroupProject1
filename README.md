@@ -7,15 +7,10 @@ Group 7
 
 # Team members: 
 Giovanna Palma - @giovannapalma 
-<br>  
 Katie Witcher - @katiewitcher  
-<br>  
 Jack Macken- @jackmacken 
-<br>  
-Andrew Baich - @andrewbaich 
-<br>  
+Andrew Baich - @andrewbaich  
 Brooke Istishin - @brookeistishin  
-<br>  
   
 
 # Scenario description: 
