@@ -1,8 +1,8 @@
-# MIST4610GroupProject1
+# Team 7 MIST 4610 Group Project 1
 
  
 # Team Name: 
-Group 7 
+Team 7 
 
 # Team Members:
 Giovanna Palma - @giovannapalma
