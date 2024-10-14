@@ -5,7 +5,6 @@
 Group 7 
 
 # Team Members:
-<br> 
 Giovanna Palma - @giovannapalma
 <br> 
 Katie Witcher - @katiewitcher 
