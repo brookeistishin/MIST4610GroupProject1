@@ -1,4 +1,4 @@
-# MIST 4610: Group Project 1 Information 
+# MIST 4610: Group Project 1 
 
   
 
