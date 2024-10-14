@@ -55,7 +55,6 @@ Ingredients have one supplier but suppliers can supply many ingredients.
 Menu Items fall into one category, like “Breakfast”, and categories can have many menu items 
 
   ![image](https://github.com/user-attachments/assets/d45b6a4e-3ba1-49a1-80f3-036237eeb288) 
-
  
 
  
